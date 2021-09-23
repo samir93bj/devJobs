@@ -1,2 +1,2 @@
 # Laravel-Recetas
-Proyecto Laravel de blog web para  recetas
+Proyecto Laravel de para solicites y publicaciones de ofertas laborales
